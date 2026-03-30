@@ -2,7 +2,7 @@
 This is a cricket game developed using just C language for my first year course project in PSAP (C Lang) using ANSI codes for colours
 # 🏏 Cricket Game in C
 
-## 📌 Overview
+## 📌 Overview:
 
 This project is a simple cricket game developed using the C programming language. It simulates a basic cricket match where users can play by interacting through the console.
 

@@ -85,7 +85,7 @@ Cricket-Game-In-C/
 
 ## 👨‍💻 Author
 
-* Abhijit Barad
+* Abhijit Barad.
 
 ---
 

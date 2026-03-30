@@ -10,7 +10,7 @@ The game includes features like batting, score tracking, and match outcomes base
 
 ---
 
-## 🎮 Features
+## 🎮 Features:
 
 * Console-based cricket gameplay.
 * User vs Computer simulation.

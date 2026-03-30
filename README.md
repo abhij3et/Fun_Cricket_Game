@@ -12,11 +12,11 @@ The game includes features like batting, score tracking, and match outcomes base
 
 ## 🎮 Features
 
-* Console-based cricket gameplay
-* User vs Computer simulation
-* Random score generation
-* Match result display (Win/Loss/Draw)
-* Simple and easy-to-understand interface
+* Console-based cricket gameplay.
+* User vs Computer simulation.
+* Random score generation.
+* Match result display (Win/Loss/Draw).
+* Simple and easy-to-understand interface.
 
 ---
 

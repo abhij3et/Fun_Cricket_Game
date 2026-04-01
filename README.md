@@ -20,7 +20,7 @@ The game includes features like batting, score tracking, and match outcomes base
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used:
 
 * **Programming Language:** C Only!
 * **Compiler:** GCC / Turbo C / Any standard C compiler

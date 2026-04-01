@@ -1,6 +1,6 @@
 # Fun Cricket Game
 This is a cricket game developed using just C language for my first year course project in PSAP (C Lang) using ANSI codes for colours
-# 🏏 Cricket Game in C
+# 🏏 Cricket Game in C..
 
 ## 📌 Overview:
 
